@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documentation</title>
+</head>
+<body>
+    <h1>Documentation</h1>
+    <p> Berikut dokumentasi yang mungkin bisa menggambarkan tentang diri saya. </p>
+
+    <video 
+        poster="asset/foto5.jpg"
+        width="300"
+        autoplay
+        controls
+        loop>
+        <source src="asset/video1.mp4" type="video/mp4">
+    </video>
+
+    <video 
+        poster="asset/foto6.jpg"
+        width="300"
+        autoplay
+        controls
+        loop>
+        <source src="asset/video2.mp4" type="video/mp4">
+    </video>
+
+    <p><b>Photos</b></p>
+
+    <figure>
+        <img src="asset/foto1.jpg" alt="Foto 1" width="200">
+    </figure>
+    <figure>
+        <img src="asset/foto2.jpg" alt="Foto 2" width="200">
+    </figure>
+    <figure>
+        <img src="asset/foto3.jpg" alt="Foto 3" width="200">
+    </figure>
+    <figure>
+        <img src="asset/foto4.jpg" alt="Foto 4" width="200">
+    </figure>
+    <figure>
+        <img src="asset/foto5.jpg" alt="Foto 5" width="200">
+    </figure>
+    <figure>
+        <img src="asset/foto6.jpg" alt="Foto 6" width="200">
+    </figure>
+
+    <p>Sekian Terima Kasih !!</p>
+    <br><a href="home.html">Click here if you wanna go home</a>
+    <br><a href="about-me.html">Click here if you wanna know about me</a>
+    
+    <p>&copy; Aulia Ramadhana</p>
+</body>
+</html>

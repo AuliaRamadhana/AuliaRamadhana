@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+</head>
+<body>
+    <h1>Home</h1>
+    <p>
+        <b>Halo, Selamat Datang!</b>
+        <br> Nama ku <b>Aulia Ramadhana</b>
+        <br> Aku seorang mahasiswa Institut Teknologi PLN, Fakultas Telematika dengan Jurusan Teknik Informatika.
+        <br> Aku akan memperkenalkan tentang diriku!
+    </p>
+    
+    <figure>
+        <img src="asset/foto1.jpg" alt="Foto Aulia Ramadhana" width="200">
+    </figure>
+    
+    <br><a href="about-me.html">click here if you wanna know about me</a>
+    <br><a href="documentation.html">click here if you want to see documentation</a> 
+    <br>
+    <p>&copy; Aulia Ramadhana</p>
+</body>
+</html>
